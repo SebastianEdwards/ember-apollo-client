@@ -6,7 +6,9 @@ const apolloClientDefaultPackages = [
   "apollo-client",
   "apollo-link",
   "apollo-link-context",
+  "apollo-link-error",
   "apollo-link-http",
+  "apollo-link-retry",
   "graphql",
   "graphql-tools",
   "graphql-tag"
